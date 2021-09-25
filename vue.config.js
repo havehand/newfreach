@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/newfreach/dist/"
+    publicPath: "./"
 }
