@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/daily-fresh-everyday/dist/"
+    publicPath: "/newfreach/dist/"
 }
